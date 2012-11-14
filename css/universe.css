@@ -1,0 +1,18 @@
+body {
+	font-family: arial, sans-serif;
+	
+	-moz-text-shadow:0 2px 0px rgba(0,0,0,0.9);
+	-webkit-text-shadow:0 2px 0px rgba(0,0,0,0.9);
+	text-shadow:0 2px 0px rgba(0,0,0,0.9);
+	
+	overflow-y: scroll;
+	
+	margin:  auto;
+
+	background-color: #111;
+}
+
+
+circle {
+	border: red;
+}
